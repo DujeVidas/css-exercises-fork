@@ -1,0 +1,26 @@
+.Number_1,
+.Number_3,
+.Number_5 {
+    background-color: darksalmon;
+}
+
+.Number_1,
+.Number_5 {
+    font-size: 32px;
+}
+
+.Number_3 {
+    font-size: 50px;
+}
+
+#number_2 {
+    color:blue;
+    font-size: 70px;
+}
+
+#number_4 {
+    background-color: chartreuse;
+    color:black;
+    font-weight: bold;
+    font-size: 40px;
+}
